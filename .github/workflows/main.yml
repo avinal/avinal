@@ -1,4 +1,4 @@
-name: WakaTime stat update in README.md
+name: Build Graph
 
 on:
   push:
