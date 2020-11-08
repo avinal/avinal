@@ -1,6 +1,6 @@
 # Hello, I am Avinal<img src="images/butterfly.gif"  width=30%><img src="images/dog.gif" width=20%>
 
-**Note: Github Actions will be restored soon. Got some bugs to fix.**
+<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/>
 
 ## Programming Languages I Know
 <p align=center><img src="images/cplusplus-plain.svg" width=7%><img src="images/c-plain.svg" width=7%><img src="images/java-original.svg" width=7%><img src="images/python-original.svg" width=7%></p>
