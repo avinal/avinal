@@ -1,6 +1,6 @@
-# Hello, I am Avinal<img src="images/butterfly.gif"  width=30%><img src="images/dog.gif" width=20%>
+# Hello, I am Avinal<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/>
+<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
 ## Programming Languages I Know
 <p align=center><img src="images/cplusplus-plain.svg" width=7%><img src="images/c-plain.svg" width=7%><img src="images/java-original.svg" width=7%><img src="images/python-original.svg" width=7%></p>
