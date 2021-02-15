@@ -18,4 +18,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
-          COMMIT_MSG: "Hey, This is the Way, towards Me :blush:"
+          COMMIT_MSG: "new stats received :dog:"
