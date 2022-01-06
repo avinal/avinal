@@ -2,9 +2,9 @@ name: Build Graph
 # Visit https://github.com/avinal/Profile-Readme-WakaTime for more description about this GitHub Action.
 
 on:
-  schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+  # schedule:
+  #   # Runs at 12 am  '0 0 * * *'  UTC
+  #   - cron: '1 0 * * *'
 
 jobs:
   update-readme:
