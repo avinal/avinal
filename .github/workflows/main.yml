@@ -20,4 +20,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
           COMMIT_MSG: "new stats received :dog:"
-          STAT_RANGE: last_30_days
+          STATS_RANGE: last_30_days
