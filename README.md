@@ -8,4 +8,4 @@
 
 ---
 
-<p align=center><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://wakatime.com/share/@Avinal/a70f5eaa-2098-4e5b-b557-240cf1e78033.svg" /></a></p>
+<p align=center><img src="https://wakatime.com/share/@Avinal/a70f5eaa-2098-4e5b-b557-240cf1e78033.svg" /></p>
